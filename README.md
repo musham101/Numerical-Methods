@@ -1,5 +1,5 @@
 # Numerical-Methods Project
-The .cpp file includes all the different numerical methodes to fin solutions to the equations.
+The .cpp file includes all the different numerical methodes to find solutions to the equations.
 
 Methods included:
 - Bi-Section
